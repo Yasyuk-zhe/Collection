@@ -1,2 +1,1 @@
-# Collection
-Diplom
+# Collections
